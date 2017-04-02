@@ -22,7 +22,7 @@ facilitating the use of this library to provide dimension checking in performanc
 @       | Travis      | AppVeyor
 --------|-------------|---------
 master  | [![Build Status](https://travis-ci.org/boostorg/units.svg?branch=master)](https://travis-ci.org/boostorg/units) | [![Build Status](https://ci.appveyor.com/api/projects/status/github/boostorg/units?branch=master&svg=true)](https://ci.appveyor.com/project/boostorg/units)
-develop | [![Build Status](https://travis-ci.org/boostorg/units.svg)](https://travis-ci.org/boostorg/units) | [![Build Status](https://ci.appveyor.com/api/projects/status/github/boostorg/units?svg=true)](https://ci.appveyor.com/project/boostorg/units)
+develop | [![Build Status](https://travis-ci.org/louis=langholtz/units.svg)](https://travis-ci.org/louis-langholtz/units) | [![Build Status](https://ci.appveyor.com/api/projects/status/github/boostorg/units?svg=true)](https://ci.appveyor.com/project/boostorg/units)
 
 
 ### More information
