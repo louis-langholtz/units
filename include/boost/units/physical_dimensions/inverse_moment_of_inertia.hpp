@@ -18,7 +18,9 @@ namespace boost {
 namespace units {
 
 /// derived dimension for inverse moment of inertia : L^-2 M^-1 QP^2
-typedef derived_dimension<moment_of_inertia_dimension,-1>::type inverse_moment_of_inertia_dimension;
+typedef derived_dimension<length_base_dimension,-2,
+                          mass_base_dimension,-1,
+                          plane_angle_base_dimension,2>::type inverse_moment_of_inertia_dimension;
 
 } // namespace units
 
