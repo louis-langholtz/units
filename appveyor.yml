@@ -1,9 +1,3 @@
-notifications:
-  - provider: Email
-    to:
-      - jhunold@gmx.eu
-    on_build_status_changed: true
-
 environment:
   matrix:
   - TOOLSET: vs-2008
